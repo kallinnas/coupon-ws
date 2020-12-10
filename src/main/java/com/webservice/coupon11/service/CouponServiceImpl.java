@@ -1,6 +1,5 @@
 package com.webservice.coupon11.service;
 
-import com.webservice.coupon11.config.AppConfig;
 import com.webservice.coupon11.data.Coupon;
 import com.webservice.coupon11.data.CouponRepository;
 import org.springframework.beans.factory.config.BeanDefinition;
